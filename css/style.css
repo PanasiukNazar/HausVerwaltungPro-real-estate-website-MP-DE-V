@@ -3227,6 +3227,10 @@ h3 {
     }
 }
 
+.property_certificates .certificate_listing .single_list img {
+    width: 100%;
+}
+
 @media (max-width: 767px) {
     /* line 142, ../../Arafath/CL/january 2020/237. Real Estate/HTML/scss/_quotation.scss */
     .property_certificates .certificate_listing .single_list .thumb img {
